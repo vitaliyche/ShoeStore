@@ -63,7 +63,6 @@ Open the starter project in Android Studio
     * A TextView label and EditView for the
       * Shoe Name
       * Company
-      * Shoe Size
       * Description
     * A Cancel button with an action to navigate back to the shoe list screen
     * A Save button with an action to navigate back to the shoe list screen and add a new Shoe to the Shoe View Model
